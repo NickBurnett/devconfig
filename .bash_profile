@@ -1,5 +1,5 @@
-#!/bin/sh
+#!/bin/bash
 
 if [ -f ~/.bash_aliases ]; then
-  source ~/.bash_aliases
+	source ~/.bash_aliases
 fi
